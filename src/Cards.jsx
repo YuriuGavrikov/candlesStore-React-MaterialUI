@@ -43,7 +43,7 @@ export default function Cards(props) {
 				{currentlyCategory === null ? (
 					<>
 						{[1, 2, 3].map((item) => (
-							<Grid item key={item} xs={4.5} md={3.5} lg={3}>
+							<Grid item key={item} xs={6} md={4} lg={3.5}>
 								<SkeletonItem />
 							</Grid>
 						))}
@@ -51,7 +51,7 @@ export default function Cards(props) {
 				) : (
 					<>
 						{currentlyCategory.map((card) => (
-							<Grid item key={card[0]} xs={5} md={3.5} lg={3}>
+							<Grid item key={card[0]} xs={6} md={4} lg={3.5}>
 								{currentlyCategory === cards.result.catalog ? (
 									<Catalog
 										card={card}
