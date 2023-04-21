@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/candlesStore-React-MaterialUI/static/css/main.31d6cfe0.css",
+    "main.js": "/candlesStore-React-MaterialUI/static/js/main.bbc43f58.js",
+    "index.html": "/candlesStore-React-MaterialUI/index.html",
+    "main.bbc43f58.js.map": "/candlesStore-React-MaterialUI/static/js/main.bbc43f58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.bbc43f58.js"
+  ]
+}
