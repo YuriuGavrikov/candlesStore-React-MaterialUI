@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/candlesStore-React-MaterialUI/static/css/main.31d6cfe0.css",
-    "main.js": "/candlesStore-React-MaterialUI/static/js/main.ad4118e6.js",
+    "main.js": "/candlesStore-React-MaterialUI/static/js/main.b7926beb.js",
     "index.html": "/candlesStore-React-MaterialUI/index.html",
-    "main.ad4118e6.js.map": "/candlesStore-React-MaterialUI/static/js/main.ad4118e6.js.map"
+    "main.b7926beb.js.map": "/candlesStore-React-MaterialUI/static/js/main.b7926beb.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.ad4118e6.js"
+    "static/js/main.b7926beb.js"
   ]
 }
